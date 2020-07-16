@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+:computer: I am constantly learning something new related to development and security. 
+
+I've started practicing Pentest on online labs like:
+- [Hack the box](https://www.hackthebox.eu/home/users/profile/189410)
+- [TryHackMe](https://tryhackme.com/)
+
+<h3 align="center">
+You can check out my work on the repos below :arrow_down:
+  </h3>
 <!--
 **grmelito/grmelito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
