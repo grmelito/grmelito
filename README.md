@@ -5,6 +5,7 @@
 I've started practicing Pentest on online labs like:
 - [Hack the box](https://www.hackthebox.eu/home/users/profile/189410)
 - [TryHackMe](https://tryhackme.com/)
+- [PortSwigger Web Academy](https://portswigger.net/web-security)
 
 <h3 align="center">
 You can check out my work on the repos below :arrow_down:
