@@ -7,6 +7,8 @@ I've started practicing Pentest on online labs like:
 - [TryHackMe](https://tryhackme.com/)
 - [PortSwigger Web Academy](https://portswigger.net/web-security)
 
+Automated tests and QA skills :arrow_right: [My Profile](https://testautomationu.applitools.com/me.html#Gabriel-Ruiz)
+
 <h3 align="center">
 You can check out my work on the repos below :arrow_down:
   </h3>
